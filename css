@@ -47,10 +47,9 @@ h2 {
     margin-right: auto;
     max-width: fit-content;
     margin: 15px auto 0px;
-}
-.foodTitle {
     color: rgb(209, 196, 14);
 }
+
 p {
     color: white;
     font-size: large;
@@ -87,15 +86,10 @@ p {
     max-height: fit-content;
 }
 
-.lolitas img {
+#activity img {
     height: 10%;
     width: 100%;  
-    object-fit: cover; 
-}
-.popPieCo img {
-    height: 10%;
-    width: 100%;  
-    object-fit: cover; 
+    object-fit: cover;
 }
 
 a {
